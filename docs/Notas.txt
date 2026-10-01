@@ -1,0 +1,3 @@
+Cuando haga un template, hacer toda la implementación en un .h
+Configurar launch.json y la otra (está en la guía de configuración de VSCode)
+Investigar como cronometrar tiempo que toma ejecutar un programa en C++
